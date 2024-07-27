@@ -1,6 +1,2 @@
-### This is a LOCAL change :)
-# Tomato soup recipe
-line 2 changed remotely
-This recipe makes 4 servings of soup. It can be made with very simple ingredients from your fridge.
-last line changed locally
-### This is a LOCAL change :)
+# Tomato Soup Recipe
+### This recipe makes 4 servings of soup and can be made with simple ingredients you may already have in your fridge
